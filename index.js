@@ -2,6 +2,6 @@
 
 const en = require('./translations/en.json');
 
-exports.translations = {
+module.exports = {
   en
 };
