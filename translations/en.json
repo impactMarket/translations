@@ -6,6 +6,7 @@
   "averageSsiWas": "{{ date }} average SSI was {{ value }}",
   "avgCumulativeDuration": "Avg UBI duration",
   "avgCumulativeUbi": "Avg Cumulative UBI",
+  "avgUbiDuration": "Avg UBI duration",
   "backers": "Backers",
   "beneficiaries": "Beneficiaries",
   "beneficiary": "Beneficiary",
