@@ -1,6 +1,6 @@
 # Impact Market translation files
 
-## Intructions
+## Instructions
 - Add `[lang].json` file to `./translations` folder
 - Required and add it to exported object in `./index.js`
 - Usage - just import as module:
