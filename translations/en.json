@@ -103,7 +103,7 @@
   "required": "A valid email is required",
   "requiredFields": "All the fields are required",
   "rowsPerPage": "Rows per page",
-  "s": "Running out of funds first",
+  "runningOutOfFundsFirst": "Running out of funds first",
   "seeMore": "See more",
   "seo.description": "impactMarket enables any vulnerable community to implement poverty alleviation mechanisms, like Unconditional Basic Income.",
   "seo.keywords": "impactMarket, community, unconditional, basic income, beneficiaries, cUSD, UBI, contracts, allowance, celo, blockchain, infrastructure, system, protocol",
