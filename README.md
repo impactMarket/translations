@@ -2,7 +2,7 @@
 
 ## Instructions
 - Add `[lang].json` file to `./translations` folder
-- Required and add it to exported object in `./index.js`
+- Require and add it to exported object in `./index.js`
 - Usage - just import as module:
 ```javascript
 import translations from 'translations';
