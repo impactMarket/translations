@@ -73,6 +73,7 @@
   "page.community.dashboard.economic.text": "Main indicators on beneficiaries' direct financial activity including volume transacted last month, number of transactions, and how many people they have reached/transacted with.",
   "page.community.dashboard.fundraising.heading": "Monthly Fundraising",
   "page.community.dashboard.fundraising.text": "Anyone can back those communities by sending $cUSD (Celo Dollar) directly to their contracts. This measures global monthly inflow, and its rate vs distribution.",
+  "page.community.dashboard.recentCommunityWarning": "This community was created less than 1 day ago and still doesn't have enough data to show charts. Please come back later.",
   "page.globalDashboard.communities.heading": "Helping {{ communitiesCount }} Communities",
   "page.globalDashboard.communities.ssi.heading": "Average Self-sustainability Index (SSI)",
   "page.globalDashboard.communities.ssi.text": "*SSI measures communities' collective financial self-sustainability, and average progress. It is inversely correlated with their beneficiaries UBI dependency/need and urgency.",
