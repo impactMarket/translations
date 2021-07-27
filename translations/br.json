@@ -73,7 +73,7 @@
   "page.community.dashboard.economic.text": "Principais indicadores sobre a atividade financeira direta dos beneficiários, incluindo o volume transacionado no mês anterior, o número de transações e com quantas pessoas eles transacionaram.",
   "page.community.dashboard.fundraising.heading": "Arrecadação de recursos mensal",
   "page.community.dashboard.fundraising.text": "Qualquer pessoa pode apoiar as comunidades enviando cUSD (Celo Dollar) diretamente para seus contratos. Isso mede a entrada de fundos mensal e sua taxa vs sua distribuição.",
-  "page.community.dashboard.recentCommunityWarning": "This community was created less than 1 day ago and still doesn't have enough data to show charts. Please come back later.",
+  "page.community.dashboard.recentCommunityWarning": "Esta comunidade foi criada há menos de 1 dia e ainda não possui dados suficientes para serem apresentados. Por favor, consulte novamente mais tarde.",
   "page.globalDashboard.communities.heading": "Apoiando {{ communitiesCount }} Comunidades",
   "page.globalDashboard.communities.ssi.heading": "Taxa Média de Autossustentabilidade (TAS)",
   "page.globalDashboard.communities.ssi.text": "*A TAS mede a autossustentabilidade financeira coletiva das comunidades e seu progresso médio. É inversamente correlacionado com a dependência/ necessidade e urgência de seus beneficiários quanto à RBI.",

@@ -73,7 +73,7 @@
   "page.community.dashboard.economic.text": "Principaux indicateurs sur l'activité financière des bénéficiaires, y compris le volume traité le mois dernier, le nombre de transactions et le nombre de personnes avec lesquelles ils ont effectué des transactions.",
   "page.community.dashboard.fundraising.heading": "Levée de fonds mensuelle",
   "page.community.dashboard.fundraising.text": "Tout le monde peut soutenir ces communautés en envoyant $cUSD (Celo Dollar) directement sur leurs contrats. Cela mesure le flux mensuel global et son taux par rapport à la distribution.",
-  "page.community.dashboard.recentCommunityWarning": "This community was created less than 1 day ago and still doesn't have enough data to show charts. Please come back later.",
+  "page.community.dashboard.recentCommunityWarning": "Cette communauté a été créée il y a moins d'une journée et ne dispose pas de suffisamment de données pour afficher les graphiques correspondants. Veuillez revenir plus tard.",
   "page.globalDashboard.communities.heading": " Aider {{ communitiesCount }} Communautés",
   "page.globalDashboard.communities.ssi.heading": "Indice moyen d'autosuffisance (SSI)",
   "page.globalDashboard.communities.ssi.text": "*SSI mesure l'autonomie financière collective des communautés et les progrès moyens. Il est indirectement corrélé avec la dépendance/le besoin et l'urgence du RBI des bénéficiaires.",
