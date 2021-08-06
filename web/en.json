@@ -70,6 +70,7 @@
   "numberBeneficiaries": "# Beneficiaries",
   "numberClaims": "# Claims",
   "numberTransfers": "# Transfers",
+  "page.community.miscDonationButtonLabel": "Credit Card · Paypal · BTC · ETH",
   "page.community.dashboard.distribution.heading": "Monthly Distribution",
   "page.community.dashboard.distribution.text": "Beneficiaries from different communities can claim $cUSD on a regular basis from their community contracts. UBI parameters take into consideration their beneficiaries' basic needs, and assessment by local social organizations and community leaders.",
   "page.community.dashboard.economic.heading": "Monthly Economic Development",
