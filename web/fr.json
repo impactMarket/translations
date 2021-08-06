@@ -70,6 +70,7 @@
   "numberBeneficiaries": "# Bénéficiaires",
   "numberClaims": "# Réclamé",
   "numberTransfers": "# Transféré",
+  "page.community.miscDonationButtonLabel": "Carte de crédit · Paypal · BTC · ETH",
   "page.community.dashboard.distribution.heading": "Distribution mensuelle",
   "page.community.dashboard.distribution.text": "Les bénéficiaires de chacunes des communautés peuvent réclamer régulièrement $cUSD via leurs contrats communautaires. Les paramètres RBI prennent en compte les besoins fondamentaux des bénéficiaires évalués par des organisations sociales locales et les gestionnaires de communauté.",
   "page.community.dashboard.economic.heading": "Développement économique mensuel",
