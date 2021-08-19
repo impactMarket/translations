@@ -71,6 +71,7 @@
   "numberBeneficiaries": "# Beneficiarios",
   "numberClaims": "# Pedidos",
   "numberTransfers": "# Transferencias",
+  "or": "O",
   "page.community.miscDonationButtonLabel": "Tarjeta de crédito · Paypal · BTC · ETH",
   "page.community.dashboard.distribution.heading": "Distribución Mensual",
   "page.community.dashboard.distribution.text": "Los beneficiarios de diferentes comunidades pueden recibir cUSD de forma regular de sus contratos comunitarios. Los parámetros de la RBU toman en consideración las necesidades básicas de sus beneficiarios y la evaluación por parte de organizaciones sociales locales y líderes comunitarios.",
