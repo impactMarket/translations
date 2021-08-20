@@ -1,16 +1,8 @@
 # Impact Market translation files
 
 ## Instructions
-- Add `[lang].json` file to `./translations` folder
-- Require and add it to exported object in `./index.js`
-- Usage - just import as module:
-```javascript
-import translations from 'translations';
-
-const { en } = translations;
-
-console.log(en.beneficiaries);
-```
+- Add `[lang].json` file to `./web` folder
+- Usage - just fecth them from github: [example](https://github.com/impactMarket/web/blob/master/utils/getTranslationsFromRepo.js)
 
 ## notes
 - Just keep it simple and create readable keys :smile:
