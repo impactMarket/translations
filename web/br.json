@@ -58,7 +58,7 @@
   "managerSince": "Gerente desde",
   "many": "muitos",
   "memberOf": "Membro de",
-  "modal.donate.scanText": "Escaneie ou copie e cole o endereço abaixo em sua carteira. Envie apenas {{ currency }} para esse endereço.",
+  "modal.donate.scanText": "Escaneie ou copie e cole o endereço abaixo em sua carteira. <b>Envie apenas {{ currency }} para esse endereço.</b>",
   "modal.donate.text": "Sua doação será usada como reserva e convertida em cUSD para financiar comunidades em necessidade urgente e sem fundos.",
   "monthlyActiveBackers": "{{ value }} atividade mensal dos doadores em {{ date }}",
   "months": "Meses",

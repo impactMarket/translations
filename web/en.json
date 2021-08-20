@@ -58,7 +58,7 @@
   "managerSince": "Manager since",
   "many": "many",
   "memberOf": "Member of",
-  "modal.donate.scanText": "Scan or copy/paste the address below into your wallet. Only send {{ currency }} to this address.",
+  "modal.donate.scanText": "Scan or copy/paste the address below into your wallet. <b>Only send {{ currency }} to this address.</b>",
   "modal.donate.text": "Your donation will be used as reserve and converted to cUSD overtime to fund communities in urgent need and running out of funds.",
   "monthlyActiveBackers": "{{ value }} monthly active backers on {{ date }}",
   "months": "Months",

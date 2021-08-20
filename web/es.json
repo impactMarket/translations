@@ -58,7 +58,7 @@
   "managerSince": "Gerente desde",
   "many": "muchos",
   "memberOf": "Miembro de",
-  "modal.donate.scanText": "Escanee o copie/ pegue la dirección a continuación en su billetera. Envíe solo {{currency}} a esta dirección.",
+  "modal.donate.scanText": "Escanee o copie/ pegue la dirección a continuación en su billetera. <b>Envíe solo {{currency}} a esta dirección.</b>",
   "modal.donate.text": "Su donación se utilizará como reserva y se convertirá en cUSD para financiar comunidades con necesidades urgentes y que se estén quedando sin fondos.",
   "monthlyActiveBackers": "{{ value }} donantes activos mensuales en {{ date }}",
   "months": "Meses",
