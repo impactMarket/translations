@@ -58,7 +58,7 @@
   "managerSince": "Gestionnaire depuis",
   "many": "beaucoup",
   "memberOf": "Membre de",
-  "modal.donate.scanText": "Scannez ou copiez/collez l'adresse ci-dessous dans votre portefeuille. N'envoyez que {{ currency }} à cette adresse.",
+  "modal.donate.scanText": "Scannez ou copiez/collez l'adresse ci-dessous dans votre portefeuille. <b>N'envoyez que {{ currency }} à cette adresse.</b>",
   "modal.donate.text": "Votre don sera utilisé comme réserve et converti en cUSD pour financer les communautés dans le besoin urgent et à court de fonds.",
   "monthlyActiveBackers": "{{ value }} donateurs actifs mensuels le {{ date }}",
   "months": "Mois",
