@@ -38,8 +38,8 @@
         "testnetWarning": "Pour rappel, vous utilisez la version du réseau Alfajores - les soldes de vos comptes ne sont pas réels.",
         "share": "Partage",
         "beneficiaries": "Bénéficiaires",
-        "backers": "Supporteurs",
-        "backers_plural": "Supporteurs",
+        "backers_one": "Supporteur",
+        "backers_other": "Supporteurs",
         "or": "ou",
         "ok": "Ok",
         "cancel": "Annuler",
@@ -70,9 +70,8 @@
         "faq": "FAQ",
         "oneTimeWelcomeMessage1": "impactMarket permet à toute communauté de configurer son propre revenu de base inconditionnel pour ses bénéficiaires. Tout le monde peut soutenir ces communautés en faisant un don directement à leurs contrats RBI.",
         "exploreCommunities": "Explorer les communautés",
-        "day": "jour",
-        "days": "jours",
-        "days_plural": "jours",
+        "days_one": "jour",
+        "days_other": "jours",
         "week": "semaine",
         "select": "Sélectionner",
         "tryAgain": "Essayer à nouveau",
@@ -239,7 +238,7 @@
         "myStories": "Mes storyes",
         "newStory": "Nouvelle story"
     },
-    "Beneficiary": {
+    "beneficiary": {
         "rules": {
             "title": "Règles importantes",
             "btnText": "Je lis et je comprends",
