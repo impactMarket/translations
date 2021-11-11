@@ -7,6 +7,7 @@
   "allowancePerBeneficiary": "Allowance per Beneficiary",
   "approveCusd": "Approve cUSD",
   "availableForRewards": "Available for rewards",
+  "availableNewPactTokens": "Available new PACT tokens",
   "averageSsiWas": "{{ date }} average SSI was {{ value }}",
   "avgCumulativeDuration": "Avg UBI duration",
   "avgCumulativeUbi": "Avg Cumulative UBI",
