@@ -190,6 +190,8 @@
   "subscribe": "Subscribe",
   "subscribeSuccess": "Thanks for subscribing!",
   "subscribingNote": "By subscribing you will get updates about our progress, new features and impact measurement.",
+  "toast.donationSuccess": "Donation complete",
+  "toast.defaultError": "UPS! Something went wrong...",
   "totalDistributed": "Total Distributed",
   "totalDonated": "Total donated",
   "totalRaised": "Total Raised",
