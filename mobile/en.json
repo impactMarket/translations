@@ -215,7 +215,8 @@
         "ubiParamsChanged": "Your community UBI contract parameters have changed. The new parameters will be the following:",
         "acceptNewUbiParams": "Accept New Paramenters",
         "welcomeManagerTitle": "You are now a manager of {{ communityName }}",
-        "userNotRegistered": "The user isn't registered!"
+        "userNotRegistered": "The user isn't registered!",
+        "requestFunds": "Request more funds"
     },
     "stories": {
         "stories": "Stories",
@@ -303,7 +304,12 @@
         "significantSuspiciousActivityDetected": "A significant number of accounts may be involved in suspicious activities.",
         "largeSuspiciousActivityDetected": "A very large number of accounts  may be involved in suspicious activities.",
         "fundsRunOut": "Community funds will run out in {{days}}",
-        "shareTitle": "impactMarket | Decentralized Poverty Alleviation Protocol"
+        "shareTitle": "impactMarket | Decentralized Poverty Alleviation Protocol",
+        "joinNewCommunity": {
+            "title": "Join community",
+            "message": "The community you are part of was migrated. This doesn't change anything on your UBI. Please, join the new one.",
+            "join": "Join"
+        }
     },
     "report": {
         "report": "Report",
