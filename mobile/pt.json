@@ -51,7 +51,7 @@
         "communities": "Comunidades",
         "name": "Nome",
         "currency": "Moeda",
-        "cityCountry": "Cidade, País",
+        "country": "Cidade, País",
         "moreAboutYourCommunity": "Sobre a minha comunidade",
         "added": "Adicionado",
         "removed": "Removido",
@@ -303,7 +303,14 @@
         "lowSuspiciousActivityDetected": "Algumas poucas contas podem estar envolvidas em atividades suspeitas.",
         "significantSuspiciousActivityDetected": "Há uma quantidade significativa de contas que podem estar envolvidas em atividades suspeitas.",
         "largeSuspiciousActivityDetected": "Há uma grande quantidade de contas que podem estar envolvidas em atividades suspeitas.",
-        "fundsRunOut": "Os fundos da comunidade acabarão em {{days}}",
+        "fundsWillRunOut_one": "Os fundos da comunidade acabarão em {{days}} dia",
+        "fundsWillRunOut_other": "Os fundos da comunidade acabarão em {{days}} dias",
+        "fundsRunOut": "Os fundos da comunidade acabaram.",
+        "joinNewCommunity": {
+            "title": "Entrar em uma nova comunidade",
+            "message": "A comunidade de que faz parte foi migrada. Isto não muda nada no seu RBI. Por favor, junte-se à nova.",
+            "join": "Entrar"
+        },
         "shareTitle": "impactMarket | Protocolo Descentralizado de Redução da Pobreza"
     },
     "report": {

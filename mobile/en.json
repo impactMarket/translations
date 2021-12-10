@@ -303,13 +303,15 @@
         "lowSuspiciousActivityDetected": "A very small  number of accounts may be involved in suspicious activities.",
         "significantSuspiciousActivityDetected": "A significant number of accounts may be involved in suspicious activities.",
         "largeSuspiciousActivityDetected": "A very large number of accounts  may be involved in suspicious activities.",
-        "fundsRunOut": "Community funds will run out in {{days}}",
-        "shareTitle": "impactMarket | Decentralized Poverty Alleviation Protocol",
+        "fundsWillRunOut_one": "Community funds will run out in {{days}} day.",
+        "fundsWillRunOut_other": "Community funds will run out in {{days}} days.",
+        "fundsRunOut": "This community has run out of funds.",
         "joinNewCommunity": {
             "title": "Join community",
             "message": "The community you are part of was migrated. This doesn't change anything on your UBI. Please, join the new one.",
             "join": "Join"
-        }
+        },
+        "shareTitle": "impactMarket | Decentralized Poverty Alleviation Protocol"
     },
     "report": {
         "report": "Report",
@@ -341,7 +343,7 @@
         "donateSymbol": "Contribute ({{symbol}})",
         "donateConfirmMessage": "By pressing 'Contribute', you will contribute <bold>{{symbol}}{{amount}} (${{amountInDollars}} cUSD)</bold> to {{to}}.",
         "yourDonationWillBackFor": "It will back {{backNBeneficiaries}} beneficiaries for {{backForDays}}+ days.",
-        "donationBiggerThanBalance": "You are trying to contribute with an amount bigger than your balance. Add funds on your Valora app.",
+        "notEnoughFunds": "Not enough funds to continue.",
         "amountShouldBe": "Amount should be ${{claimAmount}}+ to calculate..",
         "donationBeingProcessed": "Your donation is being processed...",
         "donateWithCelo": "Celo Dollar ($cUSD)",
