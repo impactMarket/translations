@@ -105,6 +105,8 @@
   "page.homepage.numbers.text": "La puissance de la blockchain ouvre de nouvelles possibilités à la fois pour les donateurs, leur permettant d'évaluer leur impact, et pour les bénéficiaires d'accéder au financement.",
   "poweredBy": "Alimenté par",
   "prev": "Précédent",
+  "promotionBanner": "",
+  "promotionBannerLinkLabel": "",
   "raised": "Levé",
   "raisedFromDonors": "Levé par {{ donors }} Donateurs",
   "raisedOn": "${{ value }} levé le {{ date }}",

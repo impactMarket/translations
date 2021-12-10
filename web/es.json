@@ -105,6 +105,8 @@
   "page.homepage.numbers.text": "El poder de blockchain abre nuevas posibilidades tanto para que los donantes comprendan su impacto como para que los beneficiarios accedan a la financiación.",
   "poweredBy": "Suportado por",
   "prev": "Anterior",
+  "promotionBanner": "La liste blanche d'impactMarket pour Polkastarter IDO est maintenant en ligne!",
+  "promotionBannerLinkLabel": "Inscrivez-vous maintenant!",
   "raised": "Recaudado",
   "raisedFromDonors": "Recaudado de {{ donors }} Donantes",
   "raisedOn": "${{ value }} recaudado en {{ date }}",
