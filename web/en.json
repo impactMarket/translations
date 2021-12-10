@@ -165,6 +165,8 @@
   "page.homepage.numbers.text": "The power of blockchain unlocks new possibilities both for donors to understand their impact, and beneficiaries to access finance.",
   "poweredBy": "Powered by",
   "prev": "Prev",
+  "promotionBanner": "impactMarket Whitelist for Polkastarter IDO is now LIVE!",
+  "promotionBannerLinkLabel": "Apply now!",
   "raised": "Raised",
   "raisedFromDonors": "Raised from {{ donors }} Donors",
   "raisedOn": "${{ value }} raised on {{ date }}",
