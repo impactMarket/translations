@@ -51,7 +51,7 @@
         "communities": "Communautés",
         "name": "Nom",
         "currency": "Devise",
-        "cityCountry": "Ville, Pays",
+        "country": "Ville, Pays",
         "moreAboutYourCommunity": "À propos de ma communauté",
         "add": "Ajouté",
         "removed": "Supprimé",
@@ -301,7 +301,14 @@
         "lowSuspiciousActivityDetected": "Un très petit nombre de comptes sont impliqués dans des activités suspectes.",
         "significantSuspiciousActivityDetected": "Un nombre important de comptes sont impliqués dans des activités suspectes.",
         "largeSuspiciousActivityDetected": "Un très grand nombre de comptes sont impliqués dans des activités suspectes.",
-        "fundsRunOut": "Les fonds de la communauté seront épuisés dans {{days}}",
+        "fundsWillRunOut_one": "Les fonds de la communauté seront épuisés dans {{days}} jour.",
+        "fundsWillRunOut_other": "Les fonds de la communauté seront épuisés dans {{days}} jours.",
+        "fundsRunOut": "Les fonds de la communauté sont épuisés.",
+        "joinNewCommunity": {
+            "title": "Rejoindre une nouvelle communauté",
+            "message": "La communauté dont vous faites partie a été migrée. Cela ne change rien à votre UBI. S'il vous plaît, rejoignez la nouvelle communauté.",
+            "join": "Rejoindre"
+        },
         "shareTitle": "impactMarket | Protocole décentralisé de réduction de la pauvreté"
     },
     "report": {
