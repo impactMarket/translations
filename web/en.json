@@ -179,6 +179,7 @@
   "reach": "Reach",
   "readyToClaimIn": "Ready to claim in",
   "readyToClaimNote": "Ready to claim when current epoch ends.",
+  "recaptchaFootnote": "This site is protected by reCAPTCHA and the Google <a href='https://policies.google.com/privacy' target='_blank'>Privacy Policy</a> and <a href='https://policies.google.com/terms' target='_blank'>Terms of Service</a> apply.",
   "recentlyAdded": "Recently added",
   "required": "A valid email is required",
   "requiredFields": "All the fields are required",
