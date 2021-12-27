@@ -6,6 +6,7 @@
   "allCountries": "All Countries",
   "allowancePerBeneficiary": "Allowance per Beneficiary",
   "approveCusd": "Approve cUSD",
+  "availableSoon": "Available Soon",
   "availableForRewards": "Available for rewards",
   "availableNewPactTokens": "Available new $PACT tokens",
   "averageSsiWas": "{{ date }} average SSI was {{ value }}",
