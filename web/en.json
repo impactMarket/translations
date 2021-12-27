@@ -124,7 +124,7 @@
   "numberTransfers": "# Transfers",
   "operationDelayNote": "This operation may take a couple seconds to complete. If you encounter any error please <a href='{{ url }}' rel='noopener noreferrer' target='_blank'>read our troubleshooting section<a>",
   "or": "Or",
-  "pactCta": "All about  IMPACT governance token",
+  "pactCta": "All about  $PACT governance token",
   "pactRewardsBreakdown": "$PACT rewards breakdown",
   "pactTokenHolders": "$PACT token holders",
   "page.community.dashboard.distribution.heading": "Monthly Distribution",
