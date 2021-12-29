@@ -231,7 +231,7 @@
   "wallet.extendedLabel.eth": "ETH or ERC20 tokens",
   "weAreHiring": "We are hiring!",
   "wrongEmail": "Wrong email",
-  "wrongNetwork": "To claim your $PACT tokens or contribute to earn $PACT tokens, you have connect your wallet to the Celo Network.",
+  "wrongNetwork": "To claim your $PACT tokens or contribute to earn $PACT tokens, you have to connect your wallet to the Celo Network.",
   "xOfCountries": "{{ first }} - {{ last }} of {{ total }} Countries",
   "yourContribution": "Your contribution",
   "yourPendingRewardsEstimation": "Your pending rewards estimation"

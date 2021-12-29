@@ -145,5 +145,6 @@
   "wallet.extendedLabel.eth": "ETH o tokens ERC20",
   "weAreHiring": "¡Nosotros estamos contratando!",
   "wrongEmail": "Email incorrecto",
+  "wrongNetwork": "Para reclamar sus tokens $PACT o hacer una donación para ganar tokens $PACT, debe conectar su billetera a la red Celo.",
   "xOfCountries": "{{ first }} - {{ last }} de {{ total }} Países"
 }
