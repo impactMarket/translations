@@ -214,7 +214,7 @@
   "wallet.extendedLabel.eth": "ETH ou ERC20 tokens",
   "weAreHiring": "Nous recrutons!",
   "wrongEmail": "Mauvaise adresse e-mail",
-  "wrongNetwork": "To claim your $PACT tokens or contribute to earn $PACT tokens, you have to connect your wallet to the Celo Network.",
+  "wrongNetwork": "Pour réclamer vos tokens $PACT ou contribuer et gagner des tokens $PACT, vous devez connecter votre wallet au réseau Celo.",
   "xOfCountries": "{{ first }} - {{ last }} sur {{ total }} Pays",
   "yourContribution": "Votre contribution",
   "yourPendingRewardsEstimation": "Votre estimation de récompenses en attente"
