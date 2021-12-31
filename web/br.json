@@ -80,7 +80,7 @@
   "goal": "Objetivo",
   "governance": "Governança",
   "governanceArticle.0.heading": "Token $PACT",
-  "governanceArticle.0.text": "Os tokens $PACT atuam como um meio global de governança que empodera os participantes por meio da tomada de decisões e mecanismos de incentivo abrangentes.",
+  "governanceArticle.0.text": "$PACT Token holders can influence the future health, direction, growth, and impact of the protocol. <a href='https://medium.com/impactmarket/introducing-pact-governance-token-airgrab-impact-farming-4e99c899701e' rel='noreferrer noopener' target='_blank'>Learn more.</a>",
   "governanceArticle.1.heading": "impactMarket DAO",
   "governanceArticle.1.text": "Os portadores de tokens $PACT governam a DAO e podem influenciar a saúde futura, direção, crescimento e impacto do protocolo.",
   "governanceArticle.2.heading": "Votar nas Propostas",
@@ -216,6 +216,7 @@
   "weAreHiring": "Estamos contratando!",
   "wrongEmail": "Email incorreto",
   "wrongNetwork": "Para resgatar seus tokens $PACT ou fazer uma doação para ganhar tokens $PACT, você deve conectar sua carteira à Rede Celo.",
+  "wrongNetworkShort": "Conecta a tua carteira à Rede Celo.",
   "xOfCountries": "{{ first }} - {{ last }} de {{ total }} Países",
   "yourContribution": "Sua contribuição",
   "yourPendingRewardsEstimation": "Estimativa da sua recompensa pendente"
