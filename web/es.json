@@ -172,6 +172,8 @@
   "page.governanceToken.hero.heading": "Promovendo la prosperidad a todos, luchando contra la pobreza extrema.",
   "page.governanceToken.hero.learnMoreLabel": "Saber más sobre el protocol impactMarket...",
   "page.governanceToken.hero.text": "<p>Contribuya a las comunidades vulnerables apoyadas con la distribución de ingreso básico incondicional y reivindique las recompensas de tokens $PACT por su donación.</p><p><b>Todos los días, los nuevos tokens de gobernanza $PACT están disponibles para ser reivindicados por los contribuyentes, según la cantidad de cUSD que cada uno haya donado en cada día.</b></p>",
+  "page.governanceToken.seo.title": "Contribute and Earn $PACT tokens.",
+  "page.governanceToken.seo.description": "Contribute to vulnerable communities backed by unconditional basic income, and claim $PACT rewards for your support.",
   "page.homepage.hero.buttonFootnote": "O envíe fondos a nuestras direcciones <a component='OpenCryptoDonateModal'>BTC, ETH or CELO</a>.",
   "page.homepage.hero.heading": "Protocolo Descentralizado de Mitigación de la Pobreza.",
   "page.homepage.hero.text": "ImpactMarket permite que cualquier comunidad vulnerable implemente mecanismos de reducción de la pobreza, como la Renta Básica Incondicional.",
