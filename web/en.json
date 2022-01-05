@@ -217,6 +217,7 @@
   "toast.contributeError": "An error ocurred when contributing. Please try again.",
   "toast.contributeSuccess": "Successfully contributed.",
   "toast.defaultError": "UPS! Something went wrong...",
+  "toContributeAndEarnPactTokens": "to contribute and Earn $PACT tokens.",
   "toGenerateProposalYouNeedTo": "To generate proposals you need to",
   "totalClaimAmountPerBeneficiary": "Total claim ammount per beneficiary is <b>{{ amount }} cUSD ({{ amountPerDay }} cUSD per day).</b>",
   "totalDistributed": "Total Distributed",

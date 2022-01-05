@@ -217,6 +217,7 @@
   "toast.contributeError": "Ocurrió un error al contribuir. Inténtalo de nuevo.",
   "toast.contributeSuccess": "Contribuido con éxito.",
   "toast.defaultError": "¡Ooops! Algo salió mal...",
+  "toContributeAndEarnPactTokens": "to contribute and Earn $PACT tokens.",
   "toGenerateProposalYouNeedTo": "Para generar propuestas necesitas",
   "totalClaimAmountPerBeneficiary": "El monto total del pedido por beneficiario es <b>{{ amount }} cUSD ({{ amountPerDay }} cUSD por día).</b>",
   "totalDistributed": "Total Distribuído",
