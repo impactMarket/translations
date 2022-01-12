@@ -215,7 +215,10 @@
         "ubiParamsChanged": "¡Se cambiarán los parámetros de RBI de su comunidad! Los nuevos parámetros serán los siguientes:",
         "acceptNewUbiParams": "Aceptar los nuevos parámetros",
         "userNotRegistered": "¡El usuario que está intentando agregar aún no está registrado!",
-        "welcomeManagerTitle": "Ahora eres admministrador de {{communityName}}"
+        "welcomeManagerTitle": "Ahora eres admministrador de {{communityName}}",
+        "requestFunds": "Solicitar fondos",
+        "requestFundsIn_one": "Podrá solicitar fondos nuevamente en {{days}} día",
+        "requestFundsIn_other": "Podrá solicitar fondos nuevamente en {{days}} días"
     },
     "stories": {
         "stories": "Stories",

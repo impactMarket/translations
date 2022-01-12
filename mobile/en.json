@@ -216,7 +216,9 @@
         "acceptNewUbiParams": "Accept New Paramenters",
         "welcomeManagerTitle": "You are now a manager of {{ communityName }}",
         "userNotRegistered": "The user isn't registered!",
-        "requestFunds": "Request more funds"
+        "requestFunds": "Request more funds",
+        "requestFundsIn_one": "You will be able to request funds again in {{days}} day",
+        "requestFundsIn_other": "You will be able to request funds again in {{days}} days"
     },
     "stories": {
         "stories": "Stories",

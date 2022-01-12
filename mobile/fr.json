@@ -214,7 +214,10 @@
         "ubiParamsChanged": "Les paramètres de votre contrat RBI communautaire ont changé. Les nouveaux paramètres seront les suivants :",
         "acceptNewUbiParams": "Accepter les nouveaux paramètres",
         "welcomeManagerTitle": "Vous êtes maintenant gestionnaire de {{ communityName }}",
-        "userNotRegistered": "L'utilisateur n'est pas enregistré !"
+        "userNotRegistered": "L'utilisateur n'est pas enregistré !",
+        "requestFunds": "Demander des fonds",
+        "requestFundsIn_one": "Vous pourrez à nouveau demander des fonds dans {{days}} jour",
+        "requestFundsIn_other": "Vous pourrez à nouveau demander des fonds dans {{days}} jours"
     },
     "stories": {
         "stories": "Stories",
