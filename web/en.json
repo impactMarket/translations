@@ -185,7 +185,7 @@
   "poweredBy": "Powered by",
   "prev": "Prev",
   "promotionBanner": "$PACT governance token is now listed on <a href='https://info.ubeswap.org/token/0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58' rel='noopener noreferrer' target='_blank'>Ubeswap</a>!",
-  "proposalAlreadySubmitted": "Proposal already <a href={{ url }} target=''>submitted</a>.",
+  "proposalAlreadySubmitted": "Proposal already <a href={{ url }} rel='noopener noreferrer' target='_blank'>submitted</a>.",
   "proposalNameGenerated": "Proposal {{ name }} generated.",
   "raised": "Raised",
   "raisedFromDonors": "Raised from {{ donors }} Donors",
