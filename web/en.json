@@ -179,7 +179,7 @@
   "page.governanceToken.metrics.daoLiquidity": "Current DAO UBI liquidity",
   "page.governanceToken.metrics.daoTreasury": "DAO treasury (TLV)",
   "page.governanceToken.metrics.marketCap": "$PACT Marketcap",
-  "page.governanceToken.metrics.priceUSD": "$PACT Price on <a href='https://info.ubeswap.org/token/0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58' rel='noreferrer noopener' target='_blank'>Ubeswap</a>",
+  "page.governanceToken.metrics.priceCUSD": "$PACT Price on <a href='https://info.ubeswap.org/token/0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58' rel='noreferrer noopener' target='_blank'>Ubeswap</a>",
   "page.governanceToken.metrics.tokenHolders": "$PACT holders",
   "page.governanceToken.metrics.totalCUSD": "Total cUSD raised  ",
   "page.governanceToken.metrics.transfers": "$PACT Transfers  ",
