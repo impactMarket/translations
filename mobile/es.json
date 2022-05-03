@@ -27,7 +27,8 @@
         "uploadingAvatar": "Se produjo un error al actualizar su foto de perfil. Inténtalo de nuevo.",
         "generic": "Ocurrio un error. Inténtalo de nuevo.",
         "loadingApp": "Desafortunadamente, se produjo un error inesperado al cargar la aplicación. Reinicie la aplicación y vuelva a intentarlo.",
-        "notAllowedToDeleteProfile": "No puede borrar su cuenta. Una comunidad debe tener al menos dos administradores activos."
+        "notAllowedToDeleteProfile": "No puede borrar su cuenta. Una comunidad debe tener al menos dos administradores activos.",
+        "noFundsForRequest": "Su solicitud falló porque no hay suficientes fondos en la reserva."
     },
     "permissions": {
         "title": "Solicitud de permiso",
@@ -218,7 +219,8 @@
         "welcomeManagerTitle": "Ahora eres admministrador de {{communityName}}",
         "requestFunds": "Solicitar fondos",
         "requestFundsIn_one": "Podrá solicitar fondos nuevamente en {{days}} día",
-        "requestFundsIn_other": "Podrá solicitar fondos nuevamente en {{days}} días"
+        "requestFundsIn_other": "Podrá solicitar fondos nuevamente en {{days}} días",
+        "notAllowedToAddManagers": "No está autorizado a agregar administradores! Pide ayuda al embajador(a) de la comunidad."
     },
     "stories": {
         "stories": "Stories",

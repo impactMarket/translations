@@ -27,7 +27,8 @@
         "uploadingAvatar": "Ocorreu um erro enquanto atualizávamos sua foto de perfil. Por favor, tente novamente.",
         "generic": "Ocorreu um erro. Por favor, tente novamente.",
         "loadingApp": "Infelizmente, ocorreu um erro inesperado ao carregar o aplicativo. Reinicie o aplicativo e tente novamente.",
-        "notAllowedToDeleteProfile": "Você não pode excluir a sua conta. Uma comunidade precisa ter pelo menos dois gestores ativos."
+        "notAllowedToDeleteProfile": "Você não pode excluir a sua conta. Uma comunidade precisa ter pelo menos dois gestores ativos.",
+        "noFundsForRequest": "Sua solicitação falhou porque não há fundos suficientes na reserva."
     },
     "permissions": {
         "title": "Pedido de permissão",
@@ -218,7 +219,8 @@
         "welcomeManagerTitle": "Você agora é um gestor da {{communityName}}",
         "requestFunds": "Solicitar fundos",
         "requestFundsIn_one": "Você poderá solicitar fundos novamente em {{days}} dia",
-        "requestFundsIn_other": "Você poderá solicitar fundos novamente em {{days}} dias"
+        "requestFundsIn_other": "Você poderá solicitar fundos novamente em {{days}} dias",
+        "notAllowedToAddManagers": "Você não tem permissão para adicionar gestores! Peça ajuda ao embaixador da comunidade."
     },
     "stories": {
         "stories": "Stories",

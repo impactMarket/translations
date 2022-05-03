@@ -27,7 +27,8 @@
         "uploadingAvatar": "An error happened while uploading your image, try again later!",
         "generic": "An error happened, please, try again.",
         "loadingApp": "Unfortunately an unexpected error occurred while loading the app. Please restart the app and try again.",
-        "notAllowedToDeleteProfile": "You are not allowed to delete your account. A community requires at least two active managers."
+        "notAllowedToDeleteProfile": "You are not allowed to delete your account. A community requires at least two active managers.",
+        "noFundsForRequest": "Your request failed because there's not enough funds on the reserve."
     },
     "permissions": {
         "title": "Questing Permission",
@@ -218,7 +219,8 @@
         "userNotRegistered": "The user isn't registered!",
         "requestFunds": "Request more funds",
         "requestFundsIn_one": "You will be able to request funds again in {{days}} day",
-        "requestFundsIn_other": "You will be able to request funds again in {{days}} days"
+        "requestFundsIn_other": "You will be able to request funds again in {{days}} days",
+        "notAllowedToAddManagers": "You are not allowed to add managers! Ask community ambassador for help."
     },
     "stories": {
         "stories": "Stories",

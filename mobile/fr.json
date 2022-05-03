@@ -27,7 +27,8 @@
         "uploadingAvatar": "Une erreur s'est produite lors du téléchargement de votre image, réessayez plus tard!",
         "generic": "Une erreur s'est produite, veuillez réessayer.",
         "loadingApp": "Malheureusement, une erreur inattendue s'est produite lors du chargement de l'application. Veuillez redémarrer l'application et réessayer.",
-        "notAllowedToDeleteProfile": "Vous n'êtes pas autorisé à supprimer votre compte. Une communauté nécessite au moins deux gestionnaires actifs."
+        "notAllowedToDeleteProfile": "Vous n'êtes pas autorisé à supprimer votre compte. Une communauté nécessite au moins deux gestionnaires actifs.",
+        "noFundsForRequest": "Votre demande a échoué car il n'y a pas assez de fonds sur la réserve."
     },
     "autorisations": {
         "title": "Permission",
@@ -217,7 +218,8 @@
         "userNotRegistered": "L'utilisateur n'est pas enregistré !",
         "requestFunds": "Demander des fonds",
         "requestFundsIn_one": "Vous pourrez à nouveau demander des fonds dans {{days}} jour",
-        "requestFundsIn_other": "Vous pourrez à nouveau demander des fonds dans {{days}} jours"
+        "requestFundsIn_other": "Vous pourrez à nouveau demander des fonds dans {{days}} jours",
+        "notAllowedToAddManagers": "Vous n'êtes pas autorisé à ajouter de gestionnaires! Demandez de l'aide à l'ambassadeur de la communauté."
     },
     "stories": {
         "stories": "Stories",
